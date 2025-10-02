@@ -13,7 +13,8 @@ class Library {
 
     public static void main(String[] args) {
         Library lib = new Library();
-        Library.Member m1 = lib.new Member("BARBY");
+        Library.Member m1 = lib.new Member("Neeraj");
         m1.display();
     }
 }
+
